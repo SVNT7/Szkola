@@ -3,7 +3,6 @@
 ?>
 <!doctype html>
 <html lang="pl">
-<html>
     <head>
     <meta charset="UTF-8">
     <title>Ankieta - place</title>
